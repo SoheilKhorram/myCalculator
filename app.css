@@ -63,7 +63,8 @@ section {
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    color: #B85C38;
+    /* color: #e85f29; */
+    color: #E0C097;
 }
 
 .button:hover {
@@ -77,5 +78,21 @@ section {
 
 .dot {
     font-size: 70px;
-    /* how to bring the dot up a little bit? */
+    padding-bottom: 40px;
+    padding-left: 4px;
+}
+
+.equal {
+    font-size: 55px;
+    padding-bottom: 12px;
+}
+
+.addition {
+    font-size: 50px;
+    padding-bottom: 15px;
+}
+
+.subtraction {
+    font-size: 50px;
+    padding-bottom: 10px;
 }
